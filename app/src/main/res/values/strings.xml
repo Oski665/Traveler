@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Traveler</string>
+
+    <string-array name="europe_countries">
+        <item>Albania</item>
+        <item>Latvia</item>
+        <item>Andorra</item>
+        <item>Liechtenstein</item>
+        <item>Armenia</item>
+        <item>Lithuania</item>
+        <item>Austria</item>
+        <item>Luxembourg</item>
+        <item>Azerbaijan</item>
+        <item>Malta</item>
+        <item>Belarus</item>
+        <item>Moldova</item>
+        <item>Belgium</item>
+        <item>Monaco</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Montenegro</item>
+        <item>Bulgaria</item>
+        <item>Netherlands</item>
+        <item>Croatia</item>
+        <item>Norway</item>
+        <item>Cyprus</item>
+        <item>Poland</item>
+        <item>Czech Republic</item>
+        <item>Portugal</item>
+        <item>Denmark</item>
+        <item>Romania</item>
+        <item>Estonia</item>
+        <item>Russia</item>
+        <item>Finland</item>
+        <item>San Marino</item>
+        <item>FormerYugoslav Republic of Macedonia</item>
+        <item>Serbia</item>
+        <item>France</item>
+        <item>Slovakia</item>
+        <item>Georgia</item>
+        <item>Slovenia</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>Greece</item>
+        <item>Sweden</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>Switzerland</item>
+        <item>Ireland</item>
+        <item>Turkey</item>
+        <item>Italy</item>
+        <item>Ukraine</item>
+        <item>Kosovo</item>
+        <item>United Kingdom</item>
+    </string-array>
+</resources>
